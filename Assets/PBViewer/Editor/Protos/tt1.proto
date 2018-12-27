@@ -1,0 +1,6 @@
+syntax = "proto3";
+
+message SelfDescribingMessage{
+	//set of FileDescriptorProtos 
+	int32 tt_id = 1;
+}

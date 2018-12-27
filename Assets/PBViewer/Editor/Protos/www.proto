@@ -1,0 +1,11 @@
+//qqq
+syntax = "proto3";
+
+//ww
+message www {
+   //wwww
+   double   wwww   =   1 ;
+   //wwww
+   string   ddddd   =   2 ;
+}
+

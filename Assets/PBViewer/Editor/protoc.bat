@@ -1,0 +1,1 @@
+./Assets/PFViewer/Editor/protoc.exe --csharp_out="./Assets/PFViewer/Editor/Protos/" --proto_path="./Assets/PFViewer/Editor/Protos/" test.proto

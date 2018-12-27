@@ -1,0 +1,8 @@
+syntax = "proto3";
+package Example;
+option csharp_namespace = "Example";
+
+message SelfDescribingMessage{
+	//set of FileDescriptorProtos 
+	int32 tt_id = 1;
+}
